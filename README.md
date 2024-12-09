@@ -1,4 +1,4 @@
-alx-files_manager
+ALX-FILE_MANAGER
 A backend project for managing files, designed as part of the ALX program. This project demonstrates essential backend development concepts using Node.js, Express, and MongoDB. It includes features like user authentication, file uploads, and the generation of file links.
 
 Features
